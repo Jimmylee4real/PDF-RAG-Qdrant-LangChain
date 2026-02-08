@@ -14,7 +14,7 @@ This repository demonstrates a minimal **Retrieval-Augmented Generation (RAG) (æ
 
 ## Why RAG?
 
-Traditional LLMs can hallucinate or provide irrelevant answers when they rely only on their training data.  
+Traditional LLMs can hallucinate or provide irrelevant answers when they rely only on their PAST training data.  
 RAG improves reliability by combining the intelligence of an LLM with an external knowledge source (the HKMA Practical Insights Report in this project).
 
 ---
